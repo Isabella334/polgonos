@@ -1,1 +1,0 @@
-/mnt/c/Users/isabe/OneDrive/Escritorio/polgonos/target/debug/graficas-poligono: /mnt/c/Users/isabe/OneDrive/Escritorio/polgonos/src/framebuffer.rs /mnt/c/Users/isabe/OneDrive/Escritorio/polgonos/src/line.rs /mnt/c/Users/isabe/OneDrive/Escritorio/polgonos/src/main.rs /mnt/c/Users/isabe/OneDrive/Escritorio/polgonos/src/polygon.rs
