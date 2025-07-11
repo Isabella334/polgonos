@@ -11,7 +11,7 @@ pub fn draw_polygon_outline(framebuffer: &mut Framebuffer, vertices: &[Vector2])
     }
 }
 
-/// Dibuja un polígono escalándolo hacia adentro paso a paso para simular relleno.
+/// Dibuja un polígono escalándolo hacia adentro paso a paso para rellenar.
 pub fn fill_polygon_scaled(framebuffer: &mut Framebuffer, vertices: &[Vector2], steps: usize) {
     let mut current_vertices = vertices.to_vec();
     for _ in 0..steps {
