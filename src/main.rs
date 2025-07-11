@@ -98,4 +98,6 @@ fn main() {
         d.clear_background(Color::RAYWHITE);
         d.draw_texture(&texture, 0, 0, Color::WHITE);
     }
+
+    framebuffer.buffer.export_image("out.bmp");
 }
